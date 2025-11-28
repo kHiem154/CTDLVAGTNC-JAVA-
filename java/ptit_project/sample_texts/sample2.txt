@@ -1,0 +1,2 @@
+Một file khác chứa vài câu tiếng Việt. Kiểm tra xử lý dấu, ký tự và phân tách từ.
+Từ "ví dụ" xuất hiện thêm một lần nữa: ví dụ.

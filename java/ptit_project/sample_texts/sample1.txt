@@ -1,0 +1,2 @@
+Đây là một ví dụ văn bản. Văn bản này dùng để kiểm thử chương trình đếm từ.
+Nhiều từ lặp lại: ví dụ, văn bản, đếm, từ, ví dụ.
